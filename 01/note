@@ -1,0 +1,6 @@
+https://adventofcode.com/2016/day/1
+
+Part 1: Start at (0,0), increment X and Y after taking into account direction.
+
+Part 2: Add 400x400 array to mark locations visited. Set origin in the middle so
+that we never get negative array addresses.
